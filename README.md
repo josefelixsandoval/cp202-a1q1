@@ -9,7 +9,7 @@ https://github.com/josefelixsandoval/wlu/blob/master/WEBSITE_ARCHITECTURE.md.
 > Don't overthink the solution for this section. It's very simple. It's exactly as I describe it: all you have to do is rename and move around folders and files.
 
 # Description
-In this directory you will find a few folders and files. There are a few sub folders, and you must look at each of them. Most folders have README.txt files.
+In this repo you will find a few folders and files. There are a few sub folders, and you must look at each of them. Most folders have README.txt files.
 
 README.txt files give a description of what's inside of the folders or a description of the folder.
 
