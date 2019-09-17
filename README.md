@@ -22,7 +22,7 @@ For example, 's2' could be interpreted to mean 'section 2 of something.'
 # Your Solution for Question 1
 Your job is to create a proper folder structure that could be deployed as a website. 
 
-It's a small website, with two section: resume and projects.
+It's a small website, with two sections: resume and projects.
 
 > To reiterate, all you have to do is create a structure similar to what we have done in class. 
 
@@ -31,6 +31,6 @@ This is just an exercise to move files around and renaming them to look like a p
 You do have to think a bit: for example, what should you rename a file called 'js.js'? 
 > Hint: look at the context of where it is (or it should be) and then rename it accordingly.
 
-Your solutions should be inside a folder 'q1' and then have a 'www' root with properly named sub directories and properly named files.
+Your solution should be inside a folder 'q1' and then have a 'www' root with properly named sub directories and properly named files.
 
 Look at the section on how to submit your assignment here: https://github.com/josefelixsandoval/wlu/blob/master/ASSIGNMENT1.md#submitting-your-assignment
